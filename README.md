@@ -4,8 +4,6 @@
 
 Library to solve stoichiometric balance problems with a concise and familiar syntax.
 
-`Antonio Lopez Rivera, 2021`
-
 ---
 
 [ 1. Install ](#1-install)
