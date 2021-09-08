@@ -1,4 +1,4 @@
-# Stoich: a simple stoichiometry library in Python
+# Stoich: a simple stoichiometry library
 
 ![alt text](tests/coverage/coverage.svg ".coverage available in tests/coverage/")
 
