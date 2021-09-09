@@ -1,0 +1,8 @@
+
+.idea/*
+
+.pytest_cache/*
+stoich/.pytest_cache/*
+
+__pycache__/*
+stoich/__pycache__/*
