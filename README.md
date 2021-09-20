@@ -4,6 +4,8 @@
 
 Library to solve stoichiometric balance problems with a concise and familiar syntax.
 
+The API reference is available [here](https://alopezrivera-docs.github.io/stoich/).
+
 ---
 
 [ 1. Install ](#1-install)
